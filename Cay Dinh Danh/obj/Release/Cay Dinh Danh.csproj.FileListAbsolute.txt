@@ -1,0 +1,11 @@
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\bin\Release\Cay Dinh Danh.exe.config
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay Dinh Danh.csproj.ResolveComReference.cache
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\bin\Release\Cay Dinh Danh.exe
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\bin\Release\Cay Dinh Danh.pdb
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay_Dinh_Danh.Form1.resources
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay_Dinh_Danh.Form2.resources
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay_Dinh_Danh.Properties.Resources.resources
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay Dinh Danh.csproj.GenerateResource.Cache
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay Dinh Danh.exe
+C:\Users\Ngoc Thach\documents\visual studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay Dinh Danh.pdb
+C:\Users\Ngoc Thach\Documents\Visual Studio 2015\Projects\Cay Dinh Danh\Cay Dinh Danh\obj\Release\Cay Dinh Danh.csprojResolveAssemblyReference.cache

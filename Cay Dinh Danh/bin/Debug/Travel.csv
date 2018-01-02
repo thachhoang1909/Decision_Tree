@@ -1,0 +1,11 @@
+order,Gender,Car/ownership,TravelCost,IncomeLevel,KetQua
+1,Male,a,Cheap,Low,Bus
+2,Male,b,Cheap,Medium,Bus
+3,Female,b,Cheap,Medium,Train
+4,Female,a,Cheap,Low,Bus
+5,Male,b,Cheap,Medium,Bus
+6,Male,a,Standard,Medium,Train
+7,Female,b,Standard,Medium,Train
+8,Female,b,Expensive,High,Car
+9,Male,c,Expensive,Medium,Car
+10,Female,c,Expensive,High,Car

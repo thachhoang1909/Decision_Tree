@@ -1,0 +1,5 @@
+Ten, CC, CN, DK, KQ
+sa, trungbinh, nhe, khong, chay
+da, cao, trungbinh, co, khong
+ani, thap, trungbinh, khong, chay
+kar, thap, nhe, co, khong
